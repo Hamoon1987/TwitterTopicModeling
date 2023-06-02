@@ -1,7 +1,7 @@
 # TwitterTopicModeling
 Topic modeling on tweets. Using doc2vec word embedding and k-means clustering to categorize tweets. 
 
-The article is availabe at ***  
+The article is availabe [here](https://books.google.com/books?hl=en&lr=&id=h0AvEAAAQBAJ&oi=fnd&pg=PA26&dq=info:KL0Vdzx3ib4J:scholar.google.com&ots=2PYtamExxl&sig=9snVWRT5kaXWWwCDQLbUokbYBdY)
 The goal of this code is to categorize tweets into main themes. Figure below shows the main steps of the process:  
   
   
